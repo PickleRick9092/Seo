@@ -1,9 +1,114 @@
-<mxfile host="app.diagrams.net" modified="2024-02-02T12:17:25.907Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="23.1.1" etag="K-Uq8yqqIUnAjDQl9x0q" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-02T13:20:13.465Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="9kU6X31EafFPVarEiT9r" version="23.1.1" type="github">
   <diagram name="Page-1" id="WRlbqR47VIksWEznJXJG">
-    <mxGraphModel>
+    <mxGraphModel dx="1194" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sluYl3iwNmdK5kSsbETc-1" value="On Page Optimization" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="320" y="10" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sluYl3iwNmdK5kSsbETc-3" value="Title Tag&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="27" y="120" width="96" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sluYl3iwNmdK5kSsbETc-4" value="Meta Description" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="137" y="120" width="96" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sluYl3iwNmdK5kSsbETc-5" value="Header Tags" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="247" y="120" width="96" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sluYl3iwNmdK5kSsbETc-6" value="URL Structure" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="367" y="120" width="96" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sluYl3iwNmdK5kSsbETc-7" value="Image Optz" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="487" y="120" width="96" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sluYl3iwNmdK5kSsbETc-8" value="Internal Linking" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="597" y="120" width="96" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sluYl3iwNmdK5kSsbETc-9" value="Mobile Optz" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="707" y="120" width="96" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sluYl3iwNmdK5kSsbETc-10" value="Ux" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="27" y="210" width="96" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sluYl3iwNmdK5kSsbETc-11" value="Schema Markup" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="137" y="210" width="96" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sluYl3iwNmdK5kSsbETc-12" value="Canonicalization" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="247" y="210" width="96" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sluYl3iwNmdK5kSsbETc-13" value="Content Optz" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="367" y="210" width="96" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sluYl3iwNmdK5kSsbETc-14" value="Page Speed Test" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="487" y="210" width="96" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sluYl3iwNmdK5kSsbETc-15" value="Social Media&lt;br&gt;Integration" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="597" y="210" width="96" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sluYl3iwNmdK5kSsbETc-16" value="Analytics Monitoring" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="707" y="210" width="96" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sluYl3iwNmdK5kSsbETc-17" value="Title Tag&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="366" y="310" width="96" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sluYl3iwNmdK5kSsbETc-21" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Minimum length:&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color); box-sizing: border-box; font-weight: 700; color: rgb(6, 6, 6); font-family: Visuelt, sans-serif; text-align: left;&quot;&gt;30 characters&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="99.86" y="400" width="267.14" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sluYl3iwNmdK5kSsbETc-24" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Make Sure All Pages Have Title Elements&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="27" y="480" width="381.11" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sluYl3iwNmdK5kSsbETc-26" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Give Each Page A Unique Title&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="425.86" y="480" width="381.11" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sluYl3iwNmdK5kSsbETc-27" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Maximum length:&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color); box-sizing: border-box; font-weight: 700; color: rgb(6, 6, 6); font-family: Visuelt, sans-serif; text-align: left;&quot;&gt;60 characters&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="462" y="400" width="267.14" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sluYl3iwNmdK5kSsbETc-35" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Dont Duplicate Title In H1 Elements&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="27" y="550" width="381.11" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sluYl3iwNmdK5kSsbETc-36" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Use Commas Carefully&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="425.86" y="550" width="381.11" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sluYl3iwNmdK5kSsbETc-37" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Title Name Convention&lt;br&gt;[Keyword Phrase] | [Company]&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="27" y="620" width="381.11" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sluYl3iwNmdK5kSsbETc-38" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Branding Your Pages&lt;br&gt;[Brand] | [Keyword1, Keyword2]&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="425.86" y="620" width="381.11" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sluYl3iwNmdK5kSsbETc-39" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Beware Of Keyword Stuffing&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="27" y="690" width="381.11" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sluYl3iwNmdK5kSsbETc-40" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Order Of Keywords&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="425.86" y="690" width="381.11" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sluYl3iwNmdK5kSsbETc-41" value="Meta Description" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="367" y="770" width="96" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sluYl3iwNmdK5kSsbETc-42" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;Minimum length: &lt;font face=&quot;Visuelt, sans-serif&quot; color=&quot;#060606&quot;&gt;&lt;b&gt;None&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="95.89" y="870" width="267.14" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sluYl3iwNmdK5kSsbETc-43" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Avoiding Duplicating Meta Desc&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="23.03" y="950" width="381.11" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sluYl3iwNmdK5kSsbETc-44" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Avoid &quot; &quot; in Desc&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="421.89" y="950" width="381.11" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sluYl3iwNmdK5kSsbETc-45" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Maximum length:&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color); box-sizing: border-box; font-weight: 700; color: rgb(6, 6, 6); font-family: Visuelt, sans-serif; text-align: left;&quot;&gt;60 characters&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="458.03" y="870" width="267.14" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sluYl3iwNmdK5kSsbETc-46" value="&lt;ol style=&quot;margin: 0px; padding: 0px; color: rgb(32, 33, 36); font-family: &amp;quot;Google Sans&amp;quot;, arial, sans-serif; font-size: 16px;&quot; class=&quot;X5LH0c&quot;&gt;&lt;li style=&quot;margin: 0px 0px 4px; padding: 0px; list-style: inherit;&quot; class=&quot;TrT0Xe&quot;&gt;Create unique descriptions for each page on your site.&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
+          <mxGeometry x="23.03" y="1020" width="381.11" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sluYl3iwNmdK5kSsbETc-47" value="&lt;ol style=&quot;margin: 0px; padding: 0px; color: rgb(32, 33, 36); font-family: &amp;quot;Google Sans&amp;quot;, arial, sans-serif; font-size: 16px; text-align: start;&quot; class=&quot;X5LH0c&quot;&gt;&lt;li style=&quot;margin: 0px 0px 4px; padding: 0px; list-style: inherit;&quot; class=&quot;TrT0Xe&quot;&gt;Include relevant information about the content in the description.&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="421.89" y="1020" width="381.11" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sluYl3iwNmdK5kSsbETc-52" value="https://developers.google.com/search/docs/appearance/snippet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="185" y="1090" width="457.33" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sluYl3iwNmdK5kSsbETc-53" value="Header Tags" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1180" width="96" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
